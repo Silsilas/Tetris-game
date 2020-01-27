@@ -1,0 +1,15 @@
+{
+  "name": "tetris-game",
+  "version": "1.0.0",
+  "description": "Js game",
+  "main": "tetris.js",
+  "scripts": {
+    "deploy": "gh-pages -d tetris-game"
+  },
+  "author": "silas",
+  "license": "ISC",
+  "homepage": "https://silsilas.github.io/tetris-game",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
